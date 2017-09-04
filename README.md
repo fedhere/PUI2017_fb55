@@ -1,9 +1,9 @@
-# PUI2016_fb55
+# PUI2017_fb55
 
-# November 10 2016. Diversity is considered a resource that enriches us culturally and intellectually in this class. No instances of harassment or attempt to marginalize students will be tolerated in my class. If you have concerns please come talk to me
+# Code of Conduct: Diversity is considered a resource that enriches us culturally and intellectually in this class. No instances of harassment or attempt to marginalize students will be tolerated in my class. If you have concerns please come talk to me
 
-This repository contains the assignments for NYU CUSP Principles of Urban Informatics 2016. 
-Check here for the new assignments, and for the solutions to be posted. For class material please go [here](https://github.com/fedhere/UInotebooks) (including the lecture slides, [here](https://github.com/fedhere/UInotebooks/tree/master/slides)).
+This repository contains the assignments for NYU CUSP Principles of Urban Informatics 2017. 
+Check here for the new assignments, and for the solutions to be posted. For class material please go [here](https://github.com/fedhere/UInotebooks) (including the lecture slides, [here](https://github.com/fedhere/UInotebooks/tree/master/slides2017)).
 
 Welcome to CUSP and to Principles of Urban Informatics!
 In my class I expect to see a supportive, collaborative attitude from all of you, to assure we maintain and foster a learning environment that leads to rigor, excellence, and happiness.  
@@ -27,6 +27,6 @@ Respect the [NYU and CUPS integrity academic integrity rules](https://docs.googl
 - Adherence to coding style (PEP8, see [this markdown](https://github.com/fedhere/PUI2016_fb55/blob/master/PEP8MinimalRequirements.md)) will be encouraged in the first half of the semester, without being penalized. __In the second half of the semester (starting with the midterm) not adhearing to the PEP8 guidelines will cost 5% of the grade per infraction (per type of infraction)__.
 - Ultimately the homework are for the student to learn, and the test of your learning is in the Midterm and Final, where the student __has to work alone__. Working in groups is encouraged in the homework preciselly so that students can support each other and learn from eachother taking advantage of the complementary skills they have. Understand the homework, so that you learn. Go over the homework solution and the TA corrections. 
 
-__The homework is due by Monday at midnight for the Tue class, by Wednesday at midnight for the Thu class. Late homeworks will not be accepted__. For homework turned in through github this means we will _only review material uploaded by the deadline_. _A single 2-day exception is allowed throughout the semester_, explicitly declare that you are going to use it, and do use it wisely. __The lowest grade in the first half of the course (before midterm), and the lowest grade in the second half will be disregarded in assigning you a final grade__. If you fail to turn in an assignment that will be a 0, and the lowest grade. This means you will lose the chance to disregard your worst performance.   Homework will be exclusively received through github (unless otherwise stated). The homeworks assignments are downloaded automatically at due time, so there will be no ambiguity as of whether the homework will be turned in time.
+__The homework is due by Tuesday at midnight for the Wed class, by Wednesday at midnight for the Thu class. Late homeworks will not be accepted__. For homework turned in through github this means we will _only review material uploaded by the deadline_. _A single 2-day exception is allowed throughout the semester_, explicitly declare that you are going to use it, and do use it wisely. __The lowest grade in the first half of the course (before midterm), and the lowest grade in the second half will be disregarded in assigning you a final grade__. If you fail to turn in an assignment that will be a 0, and the lowest grade. This means you will lose the chance to disregard your worst performance.   Homework will be exclusively received through github (unless otherwise stated). The homeworks assignments are downloaded automatically at due time, so there will be no ambiguity as of whether the homework will be turned in time.
 
-More material and further information is available on the class website. http://cosmo.nyu.edu/~fb55/PUI2016/
+More material and further information is available on the class website. http://https://serv.cusp.nyu.edu/~fbianco/PUI2017/
