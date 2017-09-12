@@ -1,4 +1,6 @@
 
+**How to access a terminal at CUSP**
+
 _compute_  is the name of a machine (a computer) which is accessible to all CUSP students (and anyone with a CUSP id). 
 You can see all the CUSP computational resources [here](https://datahub.cusp.nyu.edu/computing.html#computing_resources).
 
