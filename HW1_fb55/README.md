@@ -2,12 +2,13 @@
 
 **On NYU classes please turn in your github account name where the repositories you will create in this and the following homework sets will be hosted.**
 
-**Reading:**
+## Reading:
 
 What is the question? Jeff Leek & Roger D. Peng
 http://moscow.sci-hub.bz/4d3cf57483ccf211f66cad18440023cd/10.1126%40science.aaa6146.pdf
 
-**Assignment 1: Finish Lab 1**
+## Assignment 1: Finish Lab 1
+
 	Finish the lab started in the first lab session:
 https://github.com/fedhere/PUI2017_fb55/Lab1_fb55
 
@@ -21,14 +22,16 @@ On your github account we must be able to see :
 - your fork of your class mate repo and the changes you made to their file in its history
 On your classmate repo we need to see your merge request.
 
-**Assignment 2: Set up your environment:**
+## Assignment 2: Set up your environment:
+
 follow the instructions in [HW1_2_instructions.md](https://github.com/fedhere/PUI2017_fb55/blob/master/HW1_fb55/HW1_2_instructions.md)
 
 GRADING: 
 
 We will grade you based on the README file you create in the github directory as described above. The screen shots need to show the appropriate lines in the .bashrc/.bash_profile, and that running the commands takes you to the right directory.
 
-**Assignment 3:  Reproducible research.**
+## Assignment 3:  Reproducible research.
+
 Create a notebook of your own following the steps outlined in [this notebook](https://github.com/fedhere/PUI2017_fb55/blob/master/HW1_fb55/HW1_3_instructions.ipynb)
 
 To get the scheleton notebook you can clone my repository, fork my repository, or do it manually as follows:
@@ -57,7 +60,7 @@ will save a version of the notebook in the directory where you were when you typ
 
 
 
-**References:**
+## References:
 
 markdown syntax - http://daringfireball.net/projects/markdown/syntax
 
@@ -90,7 +93,7 @@ Save: esc :w
 Exit: esc :q
 
 
-**Key Concepts:**
+## Key Concepts:
 
 falsifiability and law of parsimony
 
