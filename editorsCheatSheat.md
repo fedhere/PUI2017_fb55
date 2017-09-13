@@ -31,11 +31,11 @@ type *P* to paste in the line above where you are
 
 type *u* to undo
 
-type */*<text> to search <text>
+type */*\<text\> to search \<text\>
 
-type *n* to move to the next instance of <text> 
+type *n* to move to the next instance of \<text\> 
 
-type *N* to move to the previous instance of <text>
+type *N* to move to the previous instance of \<text\>
 
 
 
