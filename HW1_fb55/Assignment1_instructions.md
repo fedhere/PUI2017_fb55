@@ -7,7 +7,7 @@
 2. create an environmental variable PUI2015 that points to that directory (the full directory path starting with /home on a linux box, and with /Users on a mac) so that typing 
 
 ```
-$ echo $PUI2015 
+$ echo $PUI2017
 ```
 returns the full path to the directory. Save  it in your .bashrc (linux) or .bash_profile (OS X) so that every time you open a new terminal the terminal knows what the $PUI2015 env var is set to.
 create an alias such that typing 
