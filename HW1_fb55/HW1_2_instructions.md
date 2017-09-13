@@ -38,6 +38,8 @@ Your repository should automatically show the images
 ![Alt text](screenShots/setup_env.png)
 ![Alt text](screenShots/fbianco_bash.png)
 
+My bash_profile is complicated. Yours will likely be shorter and simpler. But in mine you should be able to spot the export line and the alias line for PUI2017.
+
 
 NOTE: after you modify your .bashrc or .bash_profile you will have to rerun it: 
 $ source .bashrc 
