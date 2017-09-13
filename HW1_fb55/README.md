@@ -4,7 +4,7 @@
 
 ## Reading:
 
-(What is the question? Jeff Leek & Roger D. Peng)[https://www.d.umn.edu/~kgilbert/ened5560-1/The%20Research%20Question-2015-Leek-1314-5.pdf]
+[What is the question? Jeff Leek & Roger D. Peng](https://www.d.umn.edu/~kgilbert/ened5560-1/The%20Research%20Question-2015-Leek-1314-5.pdf)
 
 ## Assignment 1: Finish Lab 1
 
