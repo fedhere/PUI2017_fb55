@@ -1,6 +1,6 @@
-**Basic commands for text editors**
+# Basic commands for text editors
 
-*vi*
+**vi**
 
 you should know the ABC of vi because it is often set up as the default environment for github. So github may open a vi editor on your behalf, and you must know how to get out of there.
 
@@ -39,7 +39,7 @@ type *N* to move to the previous instance of <text>
 
 
 
-*Emacs*
+**emacs**
 
 open as 
 ``` 
@@ -63,7 +63,7 @@ to paste the content of your clipboard type *ctrl+y*
 
 to undo type *ctrl+_* (that is *ctrl+shift+-*)
 
-*nano*
+**nano**
 
 Mohit already mentioned this :
 
