@@ -33,6 +33,12 @@ Once your environment is set up go to github online and CREATE A NEW GITHUB REPO
 Now modify your README.md file: edit the copy on your machine to have it describe what you did to set up your enviroment and upload the screenshots I directed you to take above, so that they are displayed in your README.md (like in the image below). The README.md is a “markdown”file. To see what the syntax to upload an image in a markdown file, or in general to format the text, you can look at the README.md file in my PUI2015_fbianco repository (link above, and image below) and if you look at the raw file by clicking the Raw button on the top right you can see the syntax. 
 Remember that you also need to upload the images in your remote directory for them to be displayed in your README! just like any file you add them by git add and git commit, git push.
 
+Your repository should automatically show the images 
+
+![Alt text](screenShots/setup_env.png)
+![Alt text](screenShots/fbianco_bash.png)
+
+
 NOTE: after you modify your .bashrc or .bash_profile you will have to rerun it: 
 $ source .bashrc 
 for the new set up to be incorporated in your environment. However, every new bash terminal you open will automatically read the .bashrc/.bash_profile and know about your new alias/env variables
