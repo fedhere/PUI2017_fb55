@@ -1,6 +1,6 @@
 # Assignment 1: 
 
-**Set up your environment: **
+**Set up your environment:**
 
 1. create a directory on your computer or on your workspace on CUSP compute called PUI2017. 
 
