@@ -4,8 +4,8 @@
 
 ## Reading:
 
-What is the question? Jeff Leek & Roger D. Peng
-http://moscow.sci-hub.bz/4d3cf57483ccf211f66cad18440023cd/10.1126%40science.aaa6146.pdf
+[What is the question? Jeff Leek & Roger D. Peng]
+(https://www.d.umn.edu/~kgilbert/ened5560-1/The%20Research%20Question-2015-Leek-1314-5.pdf)
 
 ## Assignment 1: Finish Lab 1
 
