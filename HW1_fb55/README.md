@@ -31,6 +31,14 @@ We will grade you based on the README file you create in the github directory as
 
 ## Assignment 3:  Reproducible research.
 
+**EXTRA CREDIT**
+
+This may be hard, but figuring it out will greatly help you get the most out of the next several lectures. We keep track of your EC assignments and they will help your final grade. This homework is a notebook: this is the standard format of the homeworks in the future. To get full points your notebook must
+
+- be rendered (e.g. plots must be visible) so that we see what you intended to turn in
+
+- run: the TA must be able to download your notebook and run it without error. 
+
 Create a notebook of your own following the steps outlined in [this notebook](https://github.com/fedhere/PUI2017_fb55/blob/master/HW1_fb55/HW1_3_instructions.ipynb)
 
 To get the scheleton notebook you can clone my repository, fork my repository, or do it manually as follows:
