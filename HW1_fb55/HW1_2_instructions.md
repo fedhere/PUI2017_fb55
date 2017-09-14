@@ -1,4 +1,4 @@
-# Assignment 1: 
+# Assignment 2: 
 
 **Set up your environment:**
 
