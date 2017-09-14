@@ -7,13 +7,13 @@
 2. create an environmental variable PUI2017 that points to that directory (the full directory path starting with /home on a linux box, and with /Users on a mac) so that typing 
 
 ```
-$ echo $PUI2017
+echo $PUI2017
 ```
 returns the full path to the directory. Save  it in your .bashrc (linux) or .bash_profile (OS X) so that every time you open a new terminal the terminal knows what the $PUI2017 env var is set to.
 create an alias such that typing 
 
 ```
-$ pui2017
+pui2017
 ```
 takes you to that directory (hint: the alias should use the cd command). Use the env. variable $PUI2017 to do so. 
 
