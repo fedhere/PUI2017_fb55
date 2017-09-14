@@ -198,7 +198,8 @@ If you change _the same line_ changed by someone working on the master repositor
 
 ![Alt text](lab1_imgs/Lab1_mergeConflict.png)
 
-Follow the instructions to fix the merge online, but note: where github says to resolve the merge and upload the changes to Github there are a few implicit steps. I am spelling them below. Github will have instructions similar to:
+Follow the instructions to fix the merge online, View Merge, Resolve Conflict etc. Bon the command line the steps to  resolve the merge conflict and upload the changes to Github there look as follow:
+Github will have instructions similar to:
 
   ```
   git checkout -b gdobler-master master
@@ -215,7 +216,7 @@ Online you will see __your own__ pull request:
 ![Alt text](lab1_imgs/Lab1_branchMerge.png)
 
 This is the request to merge your two branches. Follow the instructions online.
-Things can get very complicated here with merges and conflicts.... if you are confused you are not alone!
+Things can get very complicated here with merges and conflicts.... if you are confused... you are not alone!
 
 ![Alt text](lab1_imgs/git.png)
 
