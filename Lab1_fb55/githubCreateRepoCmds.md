@@ -130,7 +130,7 @@ Now add the file again and commit.
 
 ```
 git add myfirstfile.txt 
-git commit   -m 'solving merge conflict'
+git commit -m 'solving merge conflict'
 git push
 ```
 
