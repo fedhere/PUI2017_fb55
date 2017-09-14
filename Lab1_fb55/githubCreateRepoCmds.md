@@ -141,7 +141,7 @@ git stash
 ```
 which, again, would throw away all the changes you had just made and committed, so be careful)
 
-## Now let's mess with someone else's repo! the lady or gentelman to your left will do.
+## Now let's mess with someone else's repo! the lady or gentleman to your left will do.
 Go online and fork your neighbor's repo, 
 then clone it: the URL was given to you online on your fork page 
 
