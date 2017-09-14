@@ -42,5 +42,8 @@ My bash_profile is complicated. Yours will likely be shorter and simpler. But in
 
 
 NOTE: after you modify your .bashrc or .bash_profile you will have to rerun it: 
-$ source .bashrc 
+```
+source .bashrc 
+```
+
 for the new set up to be incorporated in your environment. However, every new bash terminal you open will automatically read the .bashrc/.bash_profile and know about your new alias/env variables
