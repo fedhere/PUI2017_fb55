@@ -128,12 +128,13 @@ make the necessary changes. _whatever changes you decide upon you must remove th
 Now add the file again and commit. 
 (NOTE: the commit has to be global. i.e. you cannot use git commit myfirstfile.txt and commit only that right now: you have to commit everything.)
 
+Note that the commit does not specify "myfirstfile.txt" here. If you encounter the error "cannnot do a partial commit in the middle of a merge" it is because you specified a file name in the commit command. Run the command as indicated below instead
+
 ```
 git add myfirstfile.txt 
 git commit -m 'solving merge conflict'
 git push
 ```
-
 (NOTE: you could also have stashed (thrown away) your changes when you got the error message
 
 ```
