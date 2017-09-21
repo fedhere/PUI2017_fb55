@@ -37,5 +37,19 @@ fout = open(sys.argv[1], "w")
 # notice the "\n" character at the end of each line:
 # that's the line break
 for i in range(10):
-    fout.print("1,2,3,4,5,6,7,8,9,10\n")
+    fout.write("1,2,3,4,5,6,7,8,9,10\n")
+
+# this prints an empty line 
+fout.write("\n")
+
+# this line prints the numbers from i to i+10, with i equal to the line number (starting at 0) separated by commas
+# 10 times in 10 rows to your output file
+# Note that this is done with a nested for loop, in C style. This is not "pythonic", notinelegant and very inefficient
+
+for i in range(10):
+    thisline = ""
+    for j in range(10):
+        thisline += "%d,"%(i+j)
+    #.strip(',') removes the last comma
+    fout.write(thisline.strip(',')+"\n")
 
