@@ -5,7 +5,7 @@
 - [Appendix A](http://greenteapress.com/thinkpython/html/thinkpython021.html) of _Think Python_ by Allen Downey (2012)
   The full PDF and HTML versions of the book can be found [here](http://greenteapress.com/wp/think-python/)
 
-- The markdown I prepared with tips on how to ask and answer a coding or computational question: [PUI2016_fb55/blob/master/HowToAskACodingQuestion.md](https://github.com/fedhere/PUI2016_fb55/blob/master/HowToAskACodingQuestion.md)
+- The markdown I prepared with tips on how to ask and answer a coding or computational question: [PUI2017_fb55/blob/master/HowToAskACodingQuestion.md](https://github.com/fedhere/PUI2017_fb55/blob/master/HowToAskACodingQuestion.md)
 
 
 ## ASSIGNMENTS:
@@ -21,7 +21,7 @@ This homework is based on assignments by Prof. Vo, who is a specialist in transp
 ### Part 3: Use the CUSP data facility and pandas to read a CSV file and mangle the data within it.
 
 ## Submission Info:
-### You can work in groups, and you are encouraged to. Create a HW2\_\<netID> directory in your PUI2016\_\<netID> repository. Include a README.md that briefly summarizes the scope of the homework (so we know you understand what you did), and states with whome you worked and what you specifically contributed to.  Submit Assignment 1 and Assignment 2 by pushing the scripts into your PUI2017\_\<netID>/HW2\_\<netID>  repository. You can work on whatever computer you wish to develope these scripts. Work on Assignment 3 in the jupyter environment within CUSP (like you did for UCSL), so you have acces to the Data Facility. Keep in mind that we will look for possible cases of plagiarism, and if the code appears too similar to that of people that you did not work with to be original work (there are automated ways to look for plagiarism in code) *you will be penalized*. 
+### You can work in groups, and you are encouraged to. Create a HW2\_\<netID> directory in your PUI2017\_\<netID> repository. Include a README.md that briefly summarizes the scope of the homework (so we know you understand what you did), and states with whome you worked and what you specifically contributed to.  Submit Assignment 1 and Assignment 2 by pushing the scripts into your PUI2017\_\<netID>/HW2\_\<netID>  repository. You can work on whatever computer you wish to develope these scripts. Work on Assignment 3 in the jupyter environment within CUSP (like you did for UCSL), so you have acces to the Data Facility. Keep in mind that we will look for possible cases of plagiarism, and if the code appears too similar to that of people that you did not work with to be original work (there are automated ways to look for plagiarism in code) *you will be penalized*. 
 
   
 MTA is using the SIRI (Service Interface for Real Time Information) API to serve their data in both XML and JSON format. I want you to use JSON for its increasing popularity in data access API over the web, and because it is a very natural format in Python, since it maps identically to a Python dictionary. 
