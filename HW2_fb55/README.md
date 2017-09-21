@@ -28,7 +28,7 @@ MTA is using the SIRI (Service Interface for Real Time Information) API to serve
 Information on the vehicle monitoring stream is available [here](http://bustime.mta.info/wiki/Developers/SIRIVehicleMonitoring).
 
 For example, using your key, you can retrieve all vehicle information for a bus line, e.g. B52, by
-accessing the following URL http://bustime.mta.info/api/siri/vehicle-monitoring.json?key=YOUR_KEY&VehicleMonitoringDetailLevel=calls&LineRef=B52 after replacing YOUR_kEY in the URL string with your own API key.
+accessing the following URL http://bustime.mta.info/api/siri/vehicle-monitoring.json?key=YOUR_KEY&VehicleMonitoringDetailLevel=calls&LineRef=B52 after replacing YOUR_KEY in the URL string with your own API key.
 
 ### IMPORTANT NOTE:
 The BusTime API server strictly enforces users to issue only 1 request per 30
