@@ -29,4 +29,4 @@ if not len(sys.argv) == 2:
 
 # this line prints Hallo and then your name
 # which you provide as argument
-print ("Hallo " + sys.argv[1] + "!")
+print ("Hello " + sys.argv[1] + "!")
