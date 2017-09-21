@@ -5,7 +5,7 @@
 - [Appendix A](http://greenteapress.com/thinkpython/html/thinkpython021.html) of _Think Python_ by Allen Downey (2012)
   The full PDF and HTML versions of the book can be found [here](http://greenteapress.com/wp/think-python/)
 
-- The markdown I prepared with tips on how to ask, and answer a coding or computational question: [PUI2016_fb55/blob/master/HowToAskACodingQuestion.md](https://github.com/fedhere/PUI2016_fb55/blob/master/HowToAskACodingQuestion.md)
+- The markdown I prepared with tips on how to ask and answer a coding or computational question: [PUI2016_fb55/blob/master/HowToAskACodingQuestion.md](https://github.com/fedhere/PUI2016_fb55/blob/master/HowToAskACodingQuestion.md)
 
 
 ## ASSIGNMENTS:
