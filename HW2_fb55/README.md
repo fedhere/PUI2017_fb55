@@ -21,14 +21,14 @@ This homework is based on assignments by Prof. Vo, who is a specialist in transp
 ### Part 3: Use the CUSP data facility and pandas to read a CSV file and mangle the data within it.
 
 ## Submission Info:
-### You can work in groups, and you are encouraged to. Create a HW2\_\<netID> directory in your PUI2016\_\<netID> repository. Include a README.md that briefly summarizes the scope of the homework (so we know you understand what you did), and states with whome you worked and what you specifically contributed to.  Submit Assignment 1 and Assignment 2 by pushing the scripts into your PUI2016\_\<netID>/HW2\_\<netID>  repository. You can work on whatever computer you wish to develope these scripts. Work on Assignment 3 in the jupyter environment within CUSP (like you did for UCSL), so you have acces to the Data Facility. Keep in mind that we will look for possible cases of plagiarism, and if the code appears too similar to that of people that you did not work with to be original work (there are automated ways to look for plagiarism in code) *you will be penalized*. 
+### You can work in groups, and you are encouraged to. Create a HW2\_\<netID> directory in your PUI2016\_\<netID> repository. Include a README.md that briefly summarizes the scope of the homework (so we know you understand what you did), and states with whome you worked and what you specifically contributed to.  Submit Assignment 1 and Assignment 2 by pushing the scripts into your PUI2017\_\<netID>/HW2\_\<netID>  repository. You can work on whatever computer you wish to develope these scripts. Work on Assignment 3 in the jupyter environment within CUSP (like you did for UCSL), so you have acces to the Data Facility. Keep in mind that we will look for possible cases of plagiarism, and if the code appears too similar to that of people that you did not work with to be original work (there are automated ways to look for plagiarism in code) *you will be penalized*. 
 
   
 MTA is using the SIRI (Service Interface for Real Time Information) API to serve their data in both XML and JSON format. I want you to use JSON for its increasing popularity in data access API over the web, and because it is a very natural format in Python, since it maps identically to a Python dictionary. 
 Information on the vehicle monitoring stream is available [here](http://bustime.mta.info/wiki/Developers/SIRIVehicleMonitoring).
 
 For example, using your key, you can retrieve all vehicle information for a bus line, e.g. B52, by
-accessing the following URL http://bustime.mta.info/api/siri/vehicle-monitoring.json?key=YOUR_KEY&VehicleMonitoringDetailLevel=calls&LineRef=B52 after replacing YOUR_kEY in the URL string with your own API key.
+accessing the following URL http://bustime.mta.info/api/siri/vehicle-monitoring.json?key=YOUR_KEY&VehicleMonitoringDetailLevel=calls&LineRef=B52 after replacing YOUR_KEY in the URL string with your own API key.
 
 ### IMPORTANT NOTE:
 The BusTime API server strictly enforces users to issue only 1 request per 30
@@ -147,12 +147,12 @@ and switch to the Kernel PUI2016_Python2 or PUI2016_Python3 from the Jupyter dro
 2. Check that an environmental variable DFDATA exists and that it points to the data facility location /gws/open/NYCOpenData/nycopendata/data/.
 3. Use pandas to read in the CSV file from the DF into a pandas dataframe. The CSV file must have at least 2 numerical value columns.
 4. Display the top few rows of the DF in your notebook. This table __must be rendered__.
-5. Remove all but 2 _numerical values_ columns of your choice (you can use the drop method of the dataframe, like we did in the class examples.) 
+5. Remove all but 2 _numerical values_ columns of your choice (you can use the drop method of the dataframe, like in the [lab example](https://github.com/fedhere/PUI2017_fb55/blob/master/Lab2_fb55/FormattingTables.ipynb).) 
 6. Display the reducted dataframe. This table __must be rendered__.
-7. Plot the columns one against the other in a scatter plot using the datafraome plot method, as we did in class (usual rules for plotting apply, see [Grading Guidelines](https://github.com/fedhere/PUI2016_fb55/blob/master/README.md) and the [instruction notebooks for HW1 Extra Credit](https://github.com/fedhere/PUI2016_fb55/blob/master/HW1_fb55/HW1_3_fb55.ipynb), part 3, for more detailed hints on how to display your rendered plots, and the [Lab2](https://github.com/fedhere/PUI2016_fb55/blob/master/Lab2_fb55) and [Class notebooks](http://github.com/fedhere/UInotebooks/blob/master/dataWrangling) examples on how to use the dataframe plot modules. The plot __must be rendered__.
+7. Plot the columns one against the other in a scatter plot using the datafraome plot method, like in the [lab example](https://github.com/fedhere/PUI2017_fb55/blob/master/Lab2_fb55/FormattingTables.ipynb).  (usual rules for plotting apply, see [Grading Guidelines](https://github.com/fedhere/PUI2016_fb55/blob/master/README.md) and the [instruction notebooks for HW1 Extra Credit](https://github.com/fedhere/PUI2016_fb55/blob/master/HW1_fb55/HW1_3_fb55.ipynb), part 3, for more detailed hints on how to display your rendered plots, and the [Lab2](https://github.com/fedhere/PUI2016_fb55/blob/master/Lab2_fb55) and [Class notebooks](http://github.com/fedhere/UInotebooks/blob/master/dataWrangling) examples on how to use the dataframe plot modules. The plot __must be rendered__.
 
 ### GRADING: 
-You must use the environment variable.
+You must use the environment variable DFDATA.
 
 Your notebook must display
 - the data tables for the unreducted datasets (first few columns)
