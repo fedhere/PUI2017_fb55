@@ -168,4 +168,4 @@ Repeat the steps above 1-7 with a CSV file that contains _a date/time column and
 
 ### GRADING:                                                
 
-Same rules as for Assignment 3 apply.
+Same rules as for HW1 Assignment 3 apply. Make sure your plots are rendered, with axis labels, with a caption that describes what I see, and what I should notice in the plot
