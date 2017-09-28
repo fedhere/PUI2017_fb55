@@ -73,7 +73,7 @@ The chapter of Statistics In a Nutshell that covers these topics is called Infer
 
 Your notebook must display
 - the complete formulation of the hypothesis (Null and Alternative) to be tested in words and formula
-- the download of the data (which is in https://github.com/fedhere/PUI2016_fb55/blob/master/Lab3_fb55/times.txt, but you must get the raw data!)
+- the download of the data (which is in https://github.com/fedhere/PUI2017_fb55/blob/master/Lab3_fb55/times.txt, but you must get the raw data!)
 - the calculation of the z statistics (with the given formula and the data processed from the data file)
 - the comparison of the statistis with the significance threshold and the conclusions about the Null Hypothesis
 
