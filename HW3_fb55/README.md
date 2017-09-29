@@ -32,14 +32,14 @@ Your notebook must:
 
 ### Assignment 2: Set up the work for data-driven inference based on CitiBike data. You should, even more than usual, work in groups for this!
 
-### I developed an example [here] (https://github.com/fedhere/PUI2016_fb55/blob/master/HW3_fb55/citibikes_gender.ipynb)
+### I developed an example [here] (https://github.com/fedhere/PUI2017_fb55/blob/master/HW3_fb55/citibikes_gender.ipynb)
 
   
 Work on [compute](https://github.com/fedhere/PUI2016_fb55/blob/master/computationalResources.md). 
 Choose a citibikes [dataset within the CUSP data facility (DF)](https://datahub.cusp.nyu.edu/dataset).
 
 1. Fire off a Jupyter notebook with Jupyter Hub --[here](https://datahub.cusp.nyu.edu/documents/guides/Jupyter_Notebook_from_your_browser_Mac.pdf) for Mac and Linux and [here](https://datahub.cusp.nyu.edu/documents/guides/Jupyter_Notebook_from_your_browser_Windows.pdf) for Windows--
-and switch to the Kernel PUI2016_Python2 or PUI2016_Python3 from the Jupyter dropdown menu under Kernels -> Change Kernel.
+and switch to the Kernel PUI2017_Python2 or PUI2017_Python3 from the Jupyter dropdown menu under Kernels -> Change Kernel.
 
    Write a Jupyter Notebook on compute. This will require you to use the JupyterHub ([instructions here](https://datahub.cusp.nyu.edu/documents/guides/Jupyter_Notebook_from_your_browser_Mac.pdf) ). Write a notebook that:
 
@@ -73,7 +73,7 @@ The chapter of Statistics In a Nutshell that covers these topics is called Infer
 
 Your notebook must display
 - the complete formulation of the hypothesis (Null and Alternative) to be tested in words and formula
-- the download of the data (which is in https://github.com/fedhere/PUI2016_fb55/blob/master/Lab3_fb55/times.txt, but you must get the raw data!)
+- the download of the data (which is in https://github.com/fedhere/PUI2017_fb55/blob/master/Lab3_fb55/times.txt, but you must get the raw data!)
 - the calculation of the z statistics (with the given formula and the data processed from the data file)
 - the comparison of the statistis with the significance threshold and the conclusions about the Null Hypothesis
 
