@@ -36,7 +36,7 @@ Your notebook must:
 
   
 Work on [compute](https://github.com/fedhere/PUI2016_fb55/blob/master/computationalResources.md). 
-Choose a citibikes [dataset within the CUSP data facility (DF)](https://datahub.cusp.nyu.edu/dataset).
+Choose a citibikes [dataset within the CUSP data facility (DF)](https://datahub.cusp.nyu.edu/dataset) or downloat citibike data from their website.
 
 1. Fire off a Jupyter notebook with Jupyter Hub --[here](https://datahub.cusp.nyu.edu/documents/guides/Jupyter_Notebook_from_your_browser_Mac.pdf) for Mac and Linux and [here](https://datahub.cusp.nyu.edu/documents/guides/Jupyter_Notebook_from_your_browser_Windows.pdf) for Windows--
 and switch to the Kernel PUI2017_Python2 or PUI2017_Python3 from the Jupyter dropdown menu under Kernels -> Change Kernel.
