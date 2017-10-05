@@ -54,7 +54,7 @@ You will recieve an email tonight with the name, nyuID, and GitHub username of t
   
   c. chose an appropriate test to test _H0_ given the type of data, and the question asked.  You can refer to the flowchart of statistical tests for this in the slides, or [here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3116565/), or Statistics in a Nutshell.
   
-5.  Write  your comments, suggestions, and suggested statistical test, motivating your test choice, in a markdown **named CitibikeReview\_\<netID\>.md**. Suggest variations on the question, if you think it may be made more interesting.
+5.  Write  your comments, suggestions, and suggested an appropriate statistical test, motivating your test choice, in a markdown **named CitibikeReview\_\<netID\>.md**. Suggest variations on the question, if you think it may be made more interesting.
 
 6. Submit a pull request to the original repository.
 
@@ -69,13 +69,17 @@ you will be graded on the validity and depth of your review. 50% of the grade wi
 
 Work with one, or maximum two people. 
 
-Choose three tests from the first table in the slides, one in the top potrion of the chart (chi-sq, t-test, and the ANOVA family of tests) where you are looking for differences between groups, and one in the bottom portion where you are looking for relationships bewteen the dependent and independent variables (correlation, regression, path analysis), and a logistic regression.
+Choose three tests from the table in the slides 
+
+![stats test](statsTable.png)
+
+one in the top potrion of the chart (chi-sq, t-test, and the ANOVA family of tests) where you are looking for differences between groups, and one in the bottom portion where you are looking for relationships bewteen the dependent and independent variables (correlation, regression, path analysis), and a logistic regression.
 
 Go to the main web page of the journal [PLOS ONE](http://journals.plos.org/plosone/) and search for articles that use that test (**DO NOT USE THE ARTICLE I USED FOR THE CLASS EXAMPLE:** http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0062593).
 
 Put the name of your tests (one by one) in the search (you can also use the advanced search) and choose a paper that uses the test you selected. Read the relevant portions of the paper (the abstract, and then a search for occurrences of the test name may be sufficient!) and identify what are the Dependent Variables (DV), Independent Variables (IV), and, if applicable, control variables (remember class 1 slides if you forgot), how many they are, and what type they are (categorical, continuous...). 
 
-Write out the number of DV, type of DV, number of IV, type of IV, number of control variables, kind of questions as a [table](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#tables) in your README.md file, filling in the same fields as in the first table in the ["When to use what test?" document](http://www.csun.edu/~amarenco/Fcs%20682/When%20to%20use%20what%20test.pdf). 
+Write out the number of DV, type of DV, number of IV, type of IV, number of control variables, kind of questions as a [table](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#tables) in your README.md file, filling in the same fields as in the first table in the literature about ["When to use what test?"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3116565/). 
 
 This is a template for the table. To see how it is written clock on the Raw link to see this README.md in its raw unrendered format.
 
@@ -88,14 +92,14 @@ ANCOVA	| 1, Ranks of values | ordinal | 1, did Self Affirmation or no| categoric
 
 ### GRADING: 
 
-Your HW4\_\<netID\> README.md should should show, in addition to the usual items (the scope of the homework, the group partecipants, your role in the group work) a two-row tables like the one above explaining the use of two tests in papers published in PLOS One.
+Your HW4\_\<netID\> README.md should show, in addition to the usual items (the scope of the homework, the group partecipants, your role in the group work) a two-row tables like the one above explaining the use of two tests in papers published in PLOS One.
 
 ## Assignment 3: Reproduce the analysis of the Hard to Employ program in NY:
 
 Reproduce the analysis of the Hard to Employ programs for NY. You may want to read the relevant portion of the study to make sure you are not just workign mechanically (Chapter 2 of the [original document](http://www.mdrc.org/sites/default/files/What%20Strategies%20Work%20for%20the%20Hard%20FR.pdf)).
 
 
-Reproduce the results in cell 2 of Table 2.1 (_Ever employed in a CEO transitional job_), and cell 10 (_Convicted of a felony_). Fill in the cells of the scheleton [notebook](https://github.com/fedhere/PUI2016_fb55/blob/master/HW4_fb55/effectivenes%20of%20NYC%20Post-Prison%20Employment%20Programs.ipynb) as you are asked to.
+Reproduce the results in cell 2 of Table 2.1 (_Ever employed in a CEO transitional job_), and cell 10 (_Convicted of a felony_). Fill in the cells of the scheleton [notebook](https://github.com/fedhere/PUI2017_fb55/blob/master/Lab4_fb55/effectivenes%20of%20NYC%20Post-Prison%20Employment%20Programs.ipynb) as you are asked to.
 
 Turn in your version of the python notebook in the HW4_\<netID\> directory
 
@@ -117,12 +121,12 @@ Use the following are 3 tests to assess correlation between 2 samples of citibik
 - Spearman’s test 
 - K-S test
 
-There is a skeleton notebook that works on a similar question, age of male vs female riders. Follow it to see how to set up the assignment[notebook citibikes_compare_distributions.ipynb](https://github.com/fedhere/PUI2017_fb55/blob/master/HW4_fb55/citibikes_compare_distributions.ipynb). 
+There is a skeleton notebook that works on a similar question, age of male vs female riders. Follow it to see how to set up the assignment [notebook citibikes_compare_distributions.ipynb](https://github.com/fedhere/PUI2017_fb55/blob/master/HW4_fb55/citibikes_compare_distributions.ipynb). 
 
 
 Use: trip duration of bikers that ride during the day vs night. State your result in words in terms of the Null Hypothesis
 
-Use: trip duration of bikers for trips originating in Manhattan, and in Brooklyn. Use at least 2 months of citibike data. The citibike data can be accessed from the [citibike website](https://www.citibikenyc.com/system-data) - make sure you do it in a reproducible way, or in the CUSP data facility at the path /gws/open/Student/citibike
+Use: age of bikers for trips originating in Manhattan and in Brooklyn. Use at least 2 months of citibike data. The citibike data can be accessed from the [citibike website](https://www.citibikenyc.com/system-data) - make sure you do it in a reproducible way, or in the CUSP data facility at the path /gws/open/Student/citibike
 
 
 ### Grading 
