@@ -7,7 +7,7 @@
 This is a seminal paper that initiated a number of efforts to increase reproducibility and support open science (e.g. the [COS](https://centerforopenscience.org/))
 
 How to read a scientific paper: you do not need to read all of it (generally scientists don't unless the paper is directly connected with their research.)
-On a journal like science the front page of the articleis a synapsis of it. Read that (mandatory). Then go to the body of the article and read:
+On a journal like science the front page of the article is a synapsis of it. Read that (mandatory). Then go to the body of the article and read:
 Abstract (mandatory), Introduction (you can skip it if you think the front page gave you sufficient understanding), 
 Tables and Table captions (mandatory), Figures and Figure captions (mandatory), Conclusions (mandatory). 
 _You are responsible for reading **and understanding** the content of the reading material_. If anything is not clear, because of language difficulties or any other reason, please ask!
@@ -52,7 +52,7 @@ You will recieve an email tonight with the name, nyuID, and GitHub username of t
   
   b. verify that the data supports the project: i.e. if the a data has the appropriate features (variables) to answer the question, and if the data was properly pre-processed to extract the needed values (there is some flexibility here since the test was not chosen yet)
   
-  c. chose an appropriate test to test _H0_ given the type of data, and the question asked.  You can refer to the flowchart of statistical tests for this in the slides, or [here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3116565/), of Statistics in a Nutshell.
+  c. chose an appropriate test to test _H0_ given the type of data, and the question asked.  You can refer to the flowchart of statistical tests for this in the slides, or [here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3116565/), or Statistics in a Nutshell.
   
 5.  Write  your comments, suggestions, and suggested statistical test, motivating your test choice, in a markdown **named CitibikeReview\_\<netID\>.md**. Suggest variations on the question, if you think it may be made more interesting.
 
