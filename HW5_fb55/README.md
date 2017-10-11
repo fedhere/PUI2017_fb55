@@ -2,6 +2,8 @@
 
 ## ASSIGNED READING:
 
+[POINTS OF SIGNIFICANCE - Analyzing outliers: influential or nuisance? (Naomi Altman & Martin Krzywinski Nature 2016)](
+https://www.nature.com/nmeth/journal/v13/n4/pdf/nmeth.3812.pdf)
 
 ## ASSIGNMENTS:
 
@@ -31,8 +33,19 @@ Assess the validity of the Z-test: If the samples are drawn from the distributio
 
 
 ### Grading: 
+you must:
 
-your plots need to indiate the correct behavior, which demonstrated that as the parameter of the binomial and poisson distributions increase they look increasingly more Gaussian. Remember to include comments and captions to your figure that indicate what the figure shows (and demonstrate your understanding)
+plot your original distribution
+
+plot at least one of the samples
+
+plot the distribution of z statistics
+
+fit the z-statistics with a gaussian model and assess the goodnes of fit with a simple test (AD or KS).
+
+find the best fit values for the model parameters (mean and standard deviation) by minimizing the model chi square.
+
+plots need have caption, axis labels, etx and comment your figures and test results appropriately (to demonstrate your understanding).
 
 
 
@@ -51,33 +64,3 @@ Your notebook should show the distributions, the models, clearly state the H0 nu
 
 ### Grading 
 
-All cells that are marked "for you to do" (or similar...) and that contain missing values should be filled.
-
-The second null hypothesis should be stated (for the "Convicted of a felony after 3 years" data).
-
-Both tests, Z and chi-sq, should be completed for the "Convicted of a felony after 3 years" data.
-
-The result of the test in term the rejection of the Null should be stated in all cases (for both tests and both for the original "Ever employed in a CEO transitional job" data and the "Convicted of a felony after 3 years data").
-
-## Assignment 4: Tests of correlation using the scipy package with citibike data.
-
-Use the following are 3 tests to assess correlation between 2 samples of citibike data:
-- Pearson’s test 
-- Spearman’s test 
-- K-S test
-
-There is a skeleton notebook that works on a similar question, age of male vs female riders. Follow it to see how to set up the assignment[notebook citibikes_compare_distributions.ipynb](https://github.com/fedhere/PUI2017_fb55/blob/master/HW4_fb55/citibikes_compare_distributions.ipynb). 
-
-
-Use: trip duration of bikers that ride during the day vs night. State your result in words in terms of the Null Hypothesis
-
-Use: trip duration of bikers for trips originating in Manhattan, and in Brooklyn. Use at least 2 months of citibike data. The citibike data can be accessed from the [citibike website](https://www.citibikenyc.com/system-data) - make sure you do it in a reproducible way, or in the CUSP data facility at the path /gws/open/Student/citibike
-
-
-### Grading 
-
-A notebook should be completed as the cell by cell instructions indicate.
-
-You must state the Null Hypothesis, according to what you know about the test and the **scipy.stats** package documentation **for three scipy.stats function**, corresponding to the three tests.
-
-You must put the caluclated statistics and the p-value in the context of null hypothesis rejection in each case.
