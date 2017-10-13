@@ -62,5 +62,10 @@ Optional (extra credit): Divide your sample geographically: by Borrow (Manhattan
 
 Your notebook should show the distributions, the models, clearly state the H0 null hypothesis, and properly interpret the tests (remember captions, significance, etc etc)
 
-### Grading 
+## Assignment 3: investigate linear relationships between fire arm possession, homicides by fire arms, and mass shootings for different countries, considering also the country GDP
 
+
+Follow instructions in [this skeleton notebook](https://github.com/fedhere/PUI2017_fb55/blob/master/HW5_fb55/Assignment3_instructionsUpdated.ipynb)
+
+### Grading 
+Usual grading scheme applies. Remember that succesfully fitting a line to data is not sufficient. Comment on what conclusions can be drawn from your analysis (and don't jump to conclusions!)
