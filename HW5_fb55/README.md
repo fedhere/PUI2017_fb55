@@ -39,7 +39,7 @@ plot at least one of the samples
 
 plot the distribution of z statistics
 
-fit the z-statistics with a gaussian model and assess the goodnes of fit with a simple test (AD or KS).
+fit the z-statistics with a gaussian model and assess the goodness of fit with a simple test (AD or KS).
 
 find the best fit values for the model parameters (mean and standard deviation) by minimizing the model chi square.
 
@@ -49,11 +49,8 @@ plots need have caption, axis labels, etx and comment your figures and test resu
 
 
 ## Assignment 2: Compare Tests for Goodness of fit
-
-Test whether a Gaussian model for the age distribution of citibike drivers is a sensible model, or if you can find a better fit with another distribution. Use 2 tests chosen from: KS, AD, KL, chisq to do this. Test at least 2 distributions. 
-
-
-Optional (extra credit): Divide your sample geographically: by Borrow (Manhattan vs Brooklyn) and see if you notice any differences in how the age distribution can be modeled. You can do this with the chisq test: is the chisq better for the fit to Manhattan vs Brooklyn?
+Follow the skeleton notebook [Assignment 2](https://github.com/fedhere/PUI2017_fb55/blob/master/HW5_fb55/Assignment2_instructions.ipynb)
+Test that in fact binomial and Poisson distribution look increasingly more similar to Gaussians as the mean of the distribution increases.
 
 
 ### GRADING: 
