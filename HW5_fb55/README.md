@@ -41,7 +41,7 @@ plot the distribution of z statistics
 
 fit the z-statistics with a gaussian model and assess the goodness of fit with a simple test (AD or KS).
 
-find the best fit values for the model parameters (mean and standard deviation) by minimizing the model chi square.
+** REMOVED CAUSE WE HAVE NOT COVERED IT YET find the best fit values for the model parameters (mean and standard deviation) by minimizing the model chi square. **
 
 plots need have caption, axis labels, etx and comment your figures and test results appropriately (to demonstrate your understanding).
 
