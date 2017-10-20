@@ -30,3 +30,11 @@ I realize that these last two lecture were a bit intense, with the algebra and a
 The likelihood ratio test gives a formal answer to which model is preferable (in terms of NHST) as long as the models are nested (the complex model contains the simpler one, for example a*x^2 + b*x + c (quadratic model) contains a*x + b (line model), a*z + b*x + c  (linear bi-variate model) also contains a*x + b (line model). The LR statistics, LR = -1 log_e(maxLikelihoodSimplerModel / maxLikelihoodComplexModel), follows a chi square distribution with number of degrees of freedom equal to the difference in the number of parameters in the two models (1 in both examples above), and thus it can be compared to a chi square table to reject the Null hypothesis which is that _"the simpler model is preferable"_.
 
  	- Is my model missing something that could be modelled? The residuals of a model that captures all deterministic factors in the data generation (without modelling the stocastic changes) should be randomly distributed, because what is left after everything that could be modeled should only the uncertainties in the data. Visual inspection of the residuals is often revealing when the dataset is not too large, and the distribution of the residuals can be compared to a random (Gaussian in general) distribution.
+
+- the technical skills required to do all this (in PUI) are: 
+
+	- data munging
+	
+	- model fitting with, e.g., statsmodels
+	
+	- knowing how to interpret statistical tests (NHST)
