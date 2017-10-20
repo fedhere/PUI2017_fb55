@@ -14,7 +14,7 @@ I realize that these last two lecture were a bit intense, with the algebra and a
 
 - Models are useful at predicting and explaining observations.
 
-- Every mathematical formula describes a family of models. For example a line model describes an twice-infinite (infinite**2) set of lines each corresponding to a slope-intercept pair. Methods to chose the _best fitting_ set of parameters (_model fitting) include
+- Every mathematical formula describes a family of models. For example a line model describes an twice-infinite (infinite**2) set of lines each corresponding to a slope-intercept pair. Methods to chose the _best fitting_ set of parameters (a process which we call _model fitting_) include
   	- minimization of residual squared (e.g. OLS)
 	- minimization of chi squared
 	- maximization of likelihood
