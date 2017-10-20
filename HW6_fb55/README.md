@@ -22,7 +22,7 @@ I realize that these last two lecture were a bit intense, with the algebra and a
 
 - Important questions about your model are:
 
-  - Is my model "close enough" to my observations (e.g. does the line go close enough to the points) - this can be answered by R^2 and chi^2. The first is used in absence of measurement uncertainties, the latter is used when you can quantify the uncertainty in your measurement. R^2 is the fraction of variance in the data explained by the model, for a perfect model it is R^2=1. ~0.5 is generally acceptable in social sciences, >0.8 in physical sciences. Chi^2 follows a chi square distribution with k parameter equal to the number of degrees of freedom of data (Ndof = number of observations - parameters in the model). Chi^2/Ndof should be close to 1.
+  - Is my model "close enough" to my observations (e.g. does the line go close enough to the points) - this can be answered by R^2 and chi^2. The first is used in absence of measurement uncertainties, the latter is used when you can quantify the uncertainty in your measurements. R^2 is the fraction of variance in the data explained by the model, for a perfect model it is R^2=1. ~0.5 is generally acceptable in social sciences, >0.8 in physical sciences. Chi^2 follows a chi square distribution with k parameter equal to the number of degrees of freedom of data (Ndof = number of observations - parameters in the model). Chi^2/Ndof should be close to 1.
 
   - As the complexity of a model increases (number of parameters increases) the model becomes more "flexible" and it is bound to fit the data better. Accordingly, R^2 and chi^2 must improve. This **does not** mean that a more complex model is better than a less complex model. Often the opposite is true.
  
