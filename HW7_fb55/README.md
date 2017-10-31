@@ -41,6 +41,6 @@ Incorporate the notebook in the Authorea paper following [these instructions](ht
 
 ### Grading 
 
-You will be graded on the quality of the writing, as well as the correctness of the analysis. You will also be graded on whether you have discussed the recommandations of your referees.
+You will be graded on the quality of the writing, as well as the correctness of the analysis. You will also be graded on whether you have discussed and considered the recommandations of your "referees", the classmates that reviewed your proposal.
 
 ## Assignment 2: Follow Prof. Vo instructions
