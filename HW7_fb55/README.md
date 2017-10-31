@@ -31,9 +31,9 @@ Incorporate your classmate's comment (from the review you recieved in HW4) where
 
 **Data** - a description of the data you use and how it is processed. This should include figures (with captions!!) that help visualize and understand the data.
 
-**Methodology** - a description of the methodology (test) chosen, the motivation behind it, a discussion of alternative options that were not adopted. This should contain figures as well to show the results.
+**Methodology** - a description of the methodology (test) chosen, the motivation behind it, a discussion of alternative options that were not adopted. Either this session of the next one should contain figures as well to show the results.
 
-**Conclusions** - The result and its significance, including the weaknesses and strengths of the analysis
+**Conclusions** - The result and its significance, including the weaknesses and strengths of the analysis. Either this session of the previous one should contain figures as well to show the results.
 
 Each session has to be included, each has to be written in plain English, full sentences. Each session should be between 50 and 100 words.
 
