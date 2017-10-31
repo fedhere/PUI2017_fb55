@@ -21,7 +21,7 @@ For Assignment 2: Submission however Prof. Vo organizes it.
 1. make an account on [Authorea](https://www.authorea.com/) (if you do not have it yet). Authorea is a collaborative writing platform. It is likely the platform that we will used for the capstone reports so please begin familiarizing with it now.
 
 2. Finish the Citibike analysis you set up in HW3 in a notebook. Perform the appropriate statistical test. 
-Incorporate your classmate's comment (from the review you recieved in HW4) where appropriate, and where not comment on why the suggestions were not embraced.
+Incorporate your classmate's comment (from the review you recieved in HW4) where appropriate, and when you are not incorporating them discuss why the suggestions were not embraced.
 
 3. Write up a summary of the project as an Authorea article (a single article for your working team) which MUST includes:
 
