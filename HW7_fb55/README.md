@@ -27,7 +27,7 @@ Incorporate your classmate's comment (from the review you recieved in HW4) where
 
 **Abstract** - summary of idea and result
 
-**Introduction** - a short introduction that explains what citibike is and why your question is interesting.
+**Introduction** - a short introduction that explains what citibike is and why your question is interesting. Normally this would also include a discussion of similar work previously done (a literature review) but you do not have to worry about it now.
 
 **Data** - a description of the data you use and how it is processed. This should include figures (with captions!!) that help visualize and understand the data.
 
