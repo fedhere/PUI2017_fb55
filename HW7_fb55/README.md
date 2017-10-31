@@ -37,7 +37,7 @@ Incorporate your classmate's comment (from the review you recieved in HW4) where
 
 Each session has to be included, each has to be written in plain English, full sentences. Each session should be between 50 and 100 words.
 
-Incorporate the notebook in the Authorea paper following (these instructions)[https://intercom.help/authorea/host-data/integrations/jupyteripython-notebook] and also upload it to your HW7_<netID> repo
+Incorporate the notebook in the Authorea paper following [these instructions](https://intercom.help/authorea/host-data/integrations/jupyteripython-notebook) and also upload it to your HW7_<netID> repo
 
 ### Grading 
 
