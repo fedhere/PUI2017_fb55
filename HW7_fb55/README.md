@@ -20,6 +20,8 @@ For Assignment 2: Submission however Prof. Vo organizes it.
 
 ## Assignment 1: Finish your Citibike miniproject
 
+** Work with the same team with which you submitted the proposal and turn in a single Authorea report. **
+
 1. make an account on [Authorea](https://www.authorea.com/) (if you do not have it yet). Authorea is a collaborative writing platform. It is likely the platform that we will used for the capstone reports so please begin familiarizing with it now.
 
 2. Finish the Citibike analysis you set up in HW3 in a notebook. Perform the appropriate statistical test. 
