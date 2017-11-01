@@ -15,6 +15,8 @@ For Assignment 1: Submit through notebook **and** [Authorea](https://www.authore
 
 For Assignment 2: Submission however Prof. Vo organizes it.
 
+[Alt text](https://imgs.xkcd.com/comics/exploits_of_a_mom.png "https://xkcd.com/327/")
+
 
 ## Assignment 1: Finish your Citibike miniproject
 
