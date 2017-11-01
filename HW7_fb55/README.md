@@ -15,7 +15,7 @@ For Assignment 1: Submit through notebook **and** [Authorea](https://www.authore
 
 For Assignment 2: Submission however Prof. Vo organizes it.
 
-[https://xkcd.com/327/](https://github.com/fedhere/PUI2017_fb55/blob/master/HW7_fb55/exploits_of_a_mom.png )
+[https://xkcd.com/327/](https://github.com/fedhere/PUI2017_fb55/blob/master/HW7_fb55/exploits_of_a_mom.png?raw=true)
 
 
 ## Assignment 1: Finish your Citibike miniproject
