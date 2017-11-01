@@ -21,6 +21,7 @@ For Assignment 2: Submission however Prof. Vo organizes it.
 ## Assignment 1: Finish your Citibike miniproject
 
 **Work with the same team with which you submitted the proposal and turn in a single Authorea report.**
+If you worked in a group your team should have recieved more than one review, merge and discuss their content as apprioriate.
 
 1. make an account on [Authorea](https://www.authorea.com/) (if you do not have it yet). Authorea is a collaborative writing platform. It is likely the platform that we will used for the capstone reports so please begin familiarizing with it now.
 
