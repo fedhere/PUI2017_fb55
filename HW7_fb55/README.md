@@ -58,3 +58,5 @@ NOTES:
 You will be graded on the quality of the writing, as well as the correctness of the analysis. You will also be graded on whether you have discussed and considered the recommandations of your "referees", the classmates that reviewed your proposal.
 
 ## Assignment 2: Follow Prof. Vo instructions
+return the lab as a jupyter notebook using the SQL_query notebook to start (in this repo) and submitting the sql queries through the carto API
+
