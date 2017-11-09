@@ -1,6 +1,6 @@
-PUI2016 HW 8
+# PUI2016 HW 8
 
-Create a directory HW8_<netID>. 
+Create a directory HW8_<netID> in your PUI repo (with your netID). 
   
 Create a plot, of whatever data and or models you choose from the data of urban relevance (use your judgement here, but please no footbal statistics, or star flares. If you have doubt about whether your dataset is relevant for this homework please email me.) You can make the plot in any coding language you want, as long as you upload the code that generates the plot onto this repo (which means no tableau, or any other non reproducible method - carto is an exception, since you can see the processing tasks).
 
