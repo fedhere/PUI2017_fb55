@@ -2,7 +2,7 @@
 
 Create a directory HW8_<netID> in your PUI repo (with your netID). 
   
-Create a plot, of whatever data and or models you choose from the data of urban relevance (use your judgement here, but please no footbal statistics, or star flares. If you have doubt about whether your dataset is relevant for this homework please email me.) You can make the plot in any coding language you want, as long as you upload the code that generates the plot onto this repo (which means no tableau, or any other non reproducible method - carto is an exception, since you can see the processing tasks).
+Create a plot, of whatever data (and models if you want) you choose from data of urban relevance (you can use any dataset we used in class, or something else, use your judgement here, but please no footbal statistics, or star flares. If you have doubt about whether your dataset is relevant for this homework please email me.) You can make the plot in any coding language you want (e.g. python, javascript, R...), as long as you upload the code that generates the plot onto this repo (which means no tableau, or any other non reproducible - carto is an exception, since you can see the processing tasks).
 
 Please make an effor to make it a good, compelling graphic.
 Put though into the esthetic of the plot, how clearly the content is communicated, avoid clutter, avoid misleading elements, mind your choice of colors accordingly to what was discussed in class. 
