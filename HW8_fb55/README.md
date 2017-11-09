@@ -1,11 +1,9 @@
 # PUI2016 HW 8
 
 ## Reading
-* 7 Great Visualizations from History *
-http://data-informed.com/7-great-visualizations-history/
+[7 Great Visualizations from History](http://data-informed.com/7-great-visualizations-history)
 
-* 6 lessons from the Bauhaus *
-http://blog.visual.ly/six-lessons-from-the-bauhaus-masters-of-the-persuasive-graphic/ 
+[6 lessons from the Bauhaus](http://blog.visual.ly/six-lessons-from-the-bauhaus-masters-of-the-persuasive-graphic)
 
 Create a directory HW8_\<netID\> in your PUI repo (with your netID). 
   
