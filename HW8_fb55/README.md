@@ -1,6 +1,13 @@
 # PUI2016 HW 8
 
-Create a directory HW8_<netID> in your PUI repo (with your netID). 
+## Reading
+* 7 Great Visualizations from History *
+http://data-informed.com/7-great-visualizations-history/
+
+* 6 lessons from the Bauhaus *
+http://blog.visual.ly/six-lessons-from-the-bauhaus-masters-of-the-persuasive-graphic/ 
+
+Create a directory HW8_\<netID\> in your PUI repo (with your netID). 
   
 Create a plot, of whatever data (and models if you want) you choose from data of urban relevance (you can use any dataset we used in class, or something else, use your judgement here, but please no footbal statistics, or star flares. If you have doubt about whether your dataset is relevant for this homework please email me.) You can make the plot in any coding language you want (e.g. python, javascript, R...), as long as you upload the code that generates the plot onto this repo (which means no tableau, or any other non reproducible - carto is an exception, since you can see the processing tasks).
 
