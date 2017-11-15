@@ -21,7 +21,7 @@ Census Research)
 You will recieve an email with 3 names and github handles of classmates. Review their plots according to the things we discussed last class. 
 
 There will be detailed instructions in the email on how to review, what structure the review should have, what to focus on, etc. Please comply to the instructions. 
-Upload the review **on your classmate's github PUI2017 repo** (not in your own repo, or in your for of their repo!)
+Upload the review **on your classmate's github PUI2017 repo** (not in your own repo, or _your fork_ of their repo!)
 
 Each review will be reviewed and graded by me. (Please take this homework seriously: one sentence generic reviews will be graded 0)
 
