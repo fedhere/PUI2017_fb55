@@ -17,9 +17,9 @@ Census Research)](http://ir.uiowa.edu/cgi/viewcontent.cgi?article=9478&context=a
 
 
 ## Assignment 1: reviews of classmates' plots. 
-## Due next week, before thanksgiving.
+## Due next week, before thanksgiving. Work on this assignment alone. 
 
-You will recieve an email with 3 names and github handles of classmates. Review their plots according to the things we discussed last class. 
+You will recieve an email with 3 names and github handles of classmates. Review their plots according to the things we discussed last class. You can discuss your review with others but each of you should submit a review for each of the plots
 
 There will be detailed instructions in the email on how to review, what structure the review should have, what to focus on, etc. Please comply to the instructions. 
 Upload the review **on your classmate's github PUI2017 repo** (not in your own repo, or _your fork_ of their repo!)
@@ -27,7 +27,7 @@ Upload the review **on your classmate's github PUI2017 repo** (not in your own r
 Each review will be reviewed and graded by me. (Please take this homework seriously: one sentence generic reviews will be graded 0)
 
 ## Assignment 2: census geospatial analysis. 
-## Due in two weeks, the week after thanksgiving. 
+## Due in two weeks, the week after thanksgiving. Work in groups.
 
 This assignment is designed to familiarize you with the [US Census](https://www.census.gov/) data (really the 1-year survey data) and at the same time to make you exercise with spatial analysis in geopandas.
 The goal is to assess if the [linkNYC](https://www.link.nyc/) stations are located to provide a useful service and to fill in a need. You will work with the American Fact Finder data via API and direct download, and with NYC shapefiles.
