@@ -19,8 +19,10 @@ Census Research)
 ## Due next week, before thanksgiving.
 
 You will recieve an email with 3 names and github handles of classmates. Review their plots according to the things we discussed last class. 
-There will be detailed instructions on how to review, what structure the review should have, what to focus on, etc. Please comply to the instructions. 
+
+There will be detailed instructions in the email on how to review, what structure the review should have, what to focus on, etc. Please comply to the instructions. 
 Upload the review **on your classmate's github PUI2017 repo** (not in your own repo, or in your for of their repo!)
+
 Each review will be reviewed and graded by me. (Please take this homework seriously: one sentence generic reviews will be graded 0)
 
 ## Assignment 2: census geospatial analysis. 
