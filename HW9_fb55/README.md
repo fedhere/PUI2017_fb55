@@ -11,8 +11,8 @@ This article is politically charged. Generally I strive to give you impartial, n
 
 Also if you are interested (but not mandatory):
 
-[http://ir.uiowa.edu/cgi/viewcontent.cgi?article=9478&context=annals-of-iowa](Historians and the Census: the Historiography of
-Census Research)
+[Historians and the Census: the Historiography of
+Census Research)](http://ir.uiowa.edu/cgi/viewcontent.cgi?article=9478&context=annals-of-iowa)
 
 
 
