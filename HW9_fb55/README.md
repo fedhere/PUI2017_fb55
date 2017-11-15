@@ -10,6 +10,7 @@ This Politico article contains several quotes by CUSP Prof Julia Lane.
 This article is politically charged. Generally I strive to give you impartial, non-political views on topics, but I could not find a more impartial paper on the issues the census is undergoing. Yet I think the census data is extremely important for you as urban scientist so you should pay attention to this.
 
 Also if you are interested (but not mandatory):
+
 [http://ir.uiowa.edu/cgi/viewcontent.cgi?article=9478&context=annals-of-iowa](Historians and the Census: the Historiography of
 Census Research)
 
