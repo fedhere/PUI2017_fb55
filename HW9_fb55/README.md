@@ -22,7 +22,7 @@ Census Research)](http://ir.uiowa.edu/cgi/viewcontent.cgi?article=9478&context=a
 You will recieve an email with 3 names and github handles of classmates. Review their plots according to the things we discussed last class. You can discuss your review with others but each of you should submit a review for each of the plots
 
 There will be detailed instructions in the email on how to review, what structure the review should have, what to focus on, etc. Please comply to the instructions. 
-Upload the review **on your github PUI2017 repo** (not in your classmate's repo, or _your fork_ of their repo!)
+Upload the review **on your github PUI2017 HW9 repo** (AND ALSO in your classmate's HW8 repo, NOT JUST your _your fork_ of their repo!). Please note the numbers: I will grade what is in your **HW9** repo and check that it is also in your classmate **HW8** repo.
 
 Each review will be reviewed and graded by me. (Please take this homework seriously: one sentence generic reviews will be graded 0)
 
