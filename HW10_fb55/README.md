@@ -6,6 +6,7 @@ Mandatory: [Sorry ARIMA, but I’m Going Bayesian](http://multithreaded.stitchfi
 
 Optional: [Is Seattle Really Seeing an Uptick In Cycling?](https://jakevdp.github.io/blog/2014/06/10/is-seattle-really-seeing-an-uptick-in-cycling/)an excellent analysis of time series by Jake Vander Plas (UW e-science center)
 
+In class I mentioned JVP Seattle bike-share analysis (now optional reading) as the weekly reading assignment. I switched cause I think this is more interesting. It is also a bit more difficult. Still the concepts are accessible to all of you. The code is in R, but you do not have to work with it, and it is R is straightforwardly readable.
 
 ## ASSIGNMENTS:
 
