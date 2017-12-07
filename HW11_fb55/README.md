@@ -22,12 +22,18 @@ Submit Assignment as notebooks. Please dont just download my notebook, leave ins
 
 Keep in mind that we will look for possible cases of plagiarism, and if the code appears too similar to that of people that you did not work with to be original work (there are automated ways to look for plagiarism in code) you will be penalized.
 
-Assignment 1:
+**Assignment 1 :**
 
 
 Follow notebook instructions. There are many buisiness datasets that need to be downloaded and that takes time. Clustering often takes time, particularly hierarchical clustering. Dont start at the last minute!
 
-Note that the link to the zipcodes geofile is broken right now. The file was uploaded in the repository because of that.
 
+**Assignment 2 :**
 
-(Extra Credit assignment may be posted later today)
+Submit your iclassKMeans notebook based of the skeleton we created in class, adding a loop to optimize the clustering and rendering it as an animation within the notebook. 
+Refer to [this notebook for the setup](https://github.com/fedhere/PUI2017_fb55/blob/master/Lab11_fb55/inclassKmeans2017AM-partial.ipynb) (which goes as far as we went in class) and generate the series of plots in the last cell rendered as an animation. 
+
+You can also see [here how to save animations as gifs](https://github.com/fedhere/PUI2017_fb55/blob/master/Lab11_fb55/animationExample.ipynb)
+
+**your animation must render when the graders run the notebook**
+
