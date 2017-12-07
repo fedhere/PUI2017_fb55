@@ -27,8 +27,6 @@ Keep in mind that we will look for possible cases of plagiarism, and if the code
 
 Follow notebook instructions. There are many buisiness datasets that need to be downloaded and that takes time. Clustering often takes time, particularly hierarchical clustering. Dont start at the last minute!
 
-Note that the link to the zipcodes geofile is broken right now. The file was uploaded in the repository because of that.
-
 
 **Assignment 2 :**
 
