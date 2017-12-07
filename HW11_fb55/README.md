@@ -2,7 +2,7 @@
 Due Tue 12/13th at 11:59PM for morning class, Wed 12/15th for evening class
 
 
-** NOTICE: there max extension you can get for this is 24 hours, because of the final exam. **
+**NOTICE: there max extension you can get for this is 24 hours, because of the final exam. **
 
 IMPORTANT NOTE: on this homework on you are graded on PEP8 compliance as well!
 
@@ -11,7 +11,7 @@ Use https://github.com/fedhere/PUI2016_fb55/blob/master/PEP8MinimalRequirements.
 
 # ASSIGNED READING:
 
-Don't use Hadoop - your data isn't that big, Chris Stucchio
+[Don't use Hadoop - your data isn't that big, Chris Stucchio](https://www.chrisstucchio.com/blog/2013/hadoop_hatred.html)
 
 
 # Submission Info:
