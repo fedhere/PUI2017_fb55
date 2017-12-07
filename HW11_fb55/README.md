@@ -37,3 +37,5 @@ Refer to [this notebook for the setup](https://github.com/fedhere/PUI2017_fb55/b
 
 You can also see [here how to save animations as gifs](https://github.com/fedhere/PUI2017_fb55/blob/master/Lab11_fb55/animationExample.ipynb)
 
+**your animation must render when the graders run the notebook**
+
