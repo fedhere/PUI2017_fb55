@@ -2,7 +2,7 @@
 
 **Set up your environment:**
 
-1. create a directory on your computer or on your workspace on CUSP compute called PUI2017. 
+1. create a directory on your computer or on your workspace on ADRF called PUI2017. 
 
 2. create an environmental variable PUI2017 that points to that directory (the full directory path starting with /home on a linux box, and with /Users on a mac) so that typing 
 
