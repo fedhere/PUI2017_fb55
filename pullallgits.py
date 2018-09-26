@@ -4,7 +4,7 @@
 ## or
 #####$ python pullallgits.py Thu
 ##
-##must have env variable PUI2016 set up and pointing to a
+##must have env variable PUI2018 set up and pointing to a
 import os
 import sys
 import glob
@@ -13,7 +13,7 @@ import glob
 ### checking env variable is set up
 puidir = os.getenv("PUI2018")
 if puidir is None:
-	print ("make sure the env variable PUI2016 is set up")
+	print ("make sure the env variable PUI2018 is set up")
 	sys.exit()
 
 
