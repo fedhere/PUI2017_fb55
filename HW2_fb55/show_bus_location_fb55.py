@@ -55,6 +55,11 @@ if __name__ == '__main__':
     # queries the url for json format bus data
     busdata = get_jsonparsed_data(bus_url)
 
+    print (busdata.keys())
+    print (busdata['Siri'].keys())
+    print (busdata['Siri']['ServiceDelivery'].keys())
+    # counting the number of active busses
+    
     # counting the number of active busses
     nbusses = len(busdata['Siri']['ServiceDelivery']['VehicleMonitoringDelivery'][0]['VehicleActivity'])
 

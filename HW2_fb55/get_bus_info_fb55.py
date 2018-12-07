@@ -8,7 +8,7 @@ try:
 except ImportError:
     import urllib.request as urllib
 
-DEBUG = False  # Change to True to print debug statements
+DEBUG = True  # Change to True to print debug statements
 
 
 def get_jsonparsed_data(url):
